@@ -3,7 +3,7 @@ import './index.css'
 function Home() {
   return (
     <div className='App'>
-        <h1>Nextenti Fullstack Project</h1>
+        <h1>Fullstack Project</h1>
         <h3>I'm create to a full-stack project using Python, MongoDB, and React,
              I  can follow a systematic approach to develop each part of the Task. 
         </h3>
